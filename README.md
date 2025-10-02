@@ -3,7 +3,7 @@
 
 Through [TgDB Search Plus](https://www.tgdb.org/bot) you can search for all public groups that have been joined by a user.
 
-The bot also includes a **search engine**, you can search and filter by groups and channels, and get many more results than a normal search on Telegram.
+The bot is also a **search engine**, you can search by filtering by groups and channels, and get many more results than a normal search on Telegram.
 
 ## Why TelegramDB?
 We aim to make it **easier** and **straightforward** to access all the useful information on Telegram.
@@ -13,7 +13,7 @@ Through [TgDB Search Plus](https://www.tgdb.org/bot) you can use our service.
 
 ### 🆓 Free features.
 - **/search** allows you to use keywords to search for groups and channels.
-If you want to filter only groups or channels instead, you can use the corresponding /group and /channel commands.
+    If you want to filter only groups or channels instead, you can use the corresponding /group and /channel commands.
 - **/resolve** allows you to convert the id and username of a user, group or channel.
 
 ### ⭐️ Premium functions.
