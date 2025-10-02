@@ -1,7 +1,7 @@
-# TelegramDB [![Chat](https://www.telegramdb.org/stats/chats.svg?hl=en)](https://www.telegramdb.org/stats) [![Groups](https://www.telegramdb.org/stats/groups.svg?hl=en)](https://www.telegramdb.org/stats) [![Users](https://www.telegramdb.org/stats/users.svg?hl=en)](https://www.telegramdb.org/stats) [![Bots](https://www.telegramdb.org/stats/bots.svg?hl=en)](https://www.telegramdb.org/stats) [![Members](https://www.telegramdb.org/stats/members.svg?hl=en)](https://www.telegramdb.org/stats)
+# TgDB (TelegramDB) [![Chat](https://www.telegramdb.org/stats/chats.svg?hl=en)](https://www.telegramdb.org/stats) [![Groups](https://www.telegramdb.org/stats/groups.svg?hl=en)](https://www.telegramdb.org/stats) [![Users](https://www.telegramdb.org/stats/users.svg?hl=en)](https://www.telegramdb.org/stats) [![Bots](https://www.telegramdb.org/stats/bots.svg?hl=en)](https://www.telegramdb.org/stats) [![Members](https://www.telegramdb.org/stats/members.svg?hl=en)](https://www.telegramdb.org/stats)
 **TelegramDB** is a service that allows you to search for channels, groups and their members.
 
-Through our [Telegram bot](https://t.me/tgdb_bot) you can search for all public groups that have been joined by a user.
+Through [TgDB Search Plus](https://www.tgdb.org/bot) you can search for all public groups that have been joined by a user.
 
 The bot also includes a **search engine**, you can search and filter by groups and channels, and get many more results than a normal search on Telegram.
 
@@ -9,7 +9,7 @@ The bot also includes a **search engine**, you can search and filter by groups a
 We aim to make it **easier** and **straightforward** to access all the useful information on Telegram.
 
 ## How to use TelegramDB?
-Through [@tgdb_bot](https://t.me/tgdb_bot) you can use our service.
+Through [TgDB Search Plus](https://www.tgdb.org/bot) you can use our service.
 
 ### 🆓 Free features.
 - **/search** allows you to use keywords to search for groups and channels.
@@ -55,7 +55,8 @@ In order to keep the data up-to-date and constantly increasing, we have distruib
 ### Open a discussion.
 If you have any questions or have any ideas on how to improve the project, feel free to open a discussion [here](https://github.com/TelegramDB/TelegramDB/discussions) on GitHub.
 ### Join our community on telegram.
-- Bot: [@tgdb_bot](https://t.me/tgdb_bot)
+- Bot: [tgdb.org/bot](https://tgdb.org/bot)
+- Lite Bot on Telegram: [@tgdb_search_bot](https://t.me/tgdb_search_bot)
 - News Channel: [@tgdatabase](https://t.me/tgdatabase)
 - Support/discussion group: [@tgdbchat](https://t.me/tgdbchat)
 - Support account: [@tgdb_support](https://t.me/tgdb_support) (if possible, contact us on the group)
